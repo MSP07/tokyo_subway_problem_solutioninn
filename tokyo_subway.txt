@@ -1,0 +1,14 @@
+# Station Information: Route-Station, Station Name
+G-1, Akihabara
+G-2, Ueno
+G-3, Asakusa
+A-1, Shibuya
+A-2, Ebisu
+A-3, Roppongi
+
+# Connections: Route-Station -> Route-Station, Travel Time
+G-1 -> G-2, 3
+G-2 -> G-3, 4
+A-1 -> A-2, 2
+A-2 -> A-3, 3
+G-2 -> A-2, 5
